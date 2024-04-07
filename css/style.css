@@ -1,0 +1,11 @@
+/* UNIVERSAL LAW */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* TAGS */
+body {
+    background-color: #f1adf9;
+}
